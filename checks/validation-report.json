@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:19.563746+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "92d7564a1e261a957c60fe950eba4d22ccae131f943e4482f5e2db5b7cc1d89b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d5b68e36babde097ec2c1322984d8468fc6c849fdd071ce078db97a543aa009f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "4d15c52dea50c71040e32cf603f74b937259d297dc37c23bd9c930b3121b606b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "1e0bad7d61a9636c7f3357cb9c99ecd1ad9c1fb68872cef89659edf0aed82b98",
+      "errors": []
+    },
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "a0d853af122808f567ac0f80ae850f7097d3835d2cf7dd127250525daad2ddbd",
+      "errors": []
+    },
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8a48c9cfbd6eec8fa886f68c107776044d90142a6743a5068eb9d4fb39450f86",
+      "errors": []
+    },
+    {
+      "path": "midi/z6201-punk-rock-song-sketches-opening/z6201-punk-rock-song-sketches-opening-combined.mid",
+      "bytes": 5731,
+      "sha256": "d50b7236450eb41634ba15f99c05bf0ca5f9fddb747ccbd427c47937838f1caf",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "42b39552cd05e88a8dfc1979afad2793979a3b140c4cd6fa431bce85c08fbf76",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "28045f8f00d978d3d550aef739c2444c7d91181c93d86030fa279d76335de774",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "4d15c52dea50c71040e32cf603f74b937259d297dc37c23bd9c930b3121b606b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "85365d25fe3716b4602920a2eb4c267d73c7df9254d9e196563a577e9c0df160",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "38216b099bf0cd97ed924e9eac3690ef4cd07d4d2f6afbd7daeeec76fe15df57",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae234d977d4affb3e2a9994a3a6769560e178e275ee91707b7347057f0d6d71f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6202-punk-rock-song-sketches-variation/z6202-punk-rock-song-sketches-variation-combined.mid",
+      "bytes": 5730,
+      "sha256": "5eda22613d30e1b298861d542d7220cb5d7c54a12afc189824784dbf55828bb7",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "9a205bce5ba49fa11294e60b4fa2220bd1803dc265c54aaba6425f0b6d370267",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d46b65293302702a613ca957275e37ce80172fab0ebac2f8b8e88407413ad454",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "4d15c52dea50c71040e32cf603f74b937259d297dc37c23bd9c930b3121b606b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "c289ab9ff91ff05ba2575a605d05a20f5e610a6ed8d4c1e7eb0ccf03805d2e1d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "b7ccc15ad058a0dcd6be5f43b8cad2e524ccfa39a308b1b810a9c781b07b8ab6",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "6ea97a13aa8edc98a9e0ddd5f77fdc84cdbc667df21584fa53e1964c1004e11e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6203-punk-rock-song-sketches-contrast/z6203-punk-rock-song-sketches-contrast-combined.mid",
+      "bytes": 5698,
+      "sha256": "d013856b74cee23293b11ef9899a6a34360076222c51c417b8b1deb5be61129d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "03e76df1ab0b09de73d01e9f56514067b6982f2830f4f61849ba16f8f54255ad",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0b92c9bd49f2171bc82930ca110df9204b777ffda1bb87071a9e1ae1843632cb",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "4d15c52dea50c71040e32cf603f74b937259d297dc37c23bd9c930b3121b606b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "29a43f4cae7e8c7562cd94f54c69e2ed81689a5e5b4b9b60d5fd57a558be0e33",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "c7a04a22afc364849bf71aafc71da11b62f65c732ca233476f5b7ddf8e82ec8d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4e0478a8df8c80190e8fa1c36545e8dae897afc054d6474aac85337a5f5ffcc1",
+      "errors": []
+    },
+    {
+      "path": "midi/z6204-punk-rock-song-sketches-return/z6204-punk-rock-song-sketches-return-combined.mid",
+      "bytes": 5698,
+      "sha256": "540d41ecc88197a9261dccf810abe76f03078460cc6fb75774240695e5d44ea2",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

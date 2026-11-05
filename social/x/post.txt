@@ -1,0 +1,3 @@
+DRAFT: Punk Rock Song Sketches Studies is a four-study original MIDI release at 148 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 147 characters using Python len

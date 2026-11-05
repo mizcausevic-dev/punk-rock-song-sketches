@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/punk-rock-song-sketches-simple-synth-preview.mp3",
+  "preview_sha256": "ca9cb54c1dfc0dcb0d82b55e7a24ece22ac4205912f88a90814213ad254aa3f9",
+  "source_midi_path": "midi/z6201-punk-rock-song-sketches-opening/z6201-punk-rock-song-sketches-opening-combined.mid",
+  "source_midi_sha256": "d50b7236450eb41634ba15f99c05bf0ca5f9fddb747ccbd427c47937838f1caf",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z6201",
+    "start_seconds": 0,
+    "end_seconds": 51.892
+  },
+  "measurement": {
+    "sample_peak": 0.102669,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

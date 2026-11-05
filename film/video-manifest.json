@@ -1,0 +1,26 @@
+{
+  "title": "Punk Rock Song Sketches",
+  "study": "z6201",
+  "bpm": 148,
+  "source_audio": "preview/punk-rock-song-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "ca9cb54c1dfc0dcb0d82b55e7a24ece22ac4205912f88a90814213ad254aa3f9",
+  "source_midi": "midi/z6201-punk-rock-song-sketches-opening/z6201-punk-rock-song-sketches-opening-combined.mid",
+  "source_midi_sha256": "d50b7236450eb41634ba15f99c05bf0ca5f9fddb747ccbd427c47937838f1caf",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "912358148f796e5a683ceb77c5aaf294f322857a64eeb54969b475f9c5496849",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "d2531e827658a52129578952b6f364a58d2b6f26d1fb3e03a80468e3d6bc23cb",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "5b6851d0d5147a98674f395f6249d3769cecbadcdd972e27e08475609d36438f",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
