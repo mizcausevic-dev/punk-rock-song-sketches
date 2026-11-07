@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/punk-rock-song-sketches-midi.zip",
-      "bytes": 31615,
-      "sha256": "b4121042debcaf5d670d0a6fa5091ac353f63e7004435fbac34196ef483f0b95"
+      "bytes": 32602,
+      "sha256": "26bb16065abba990d18b88c7832249d370cb4fada2383c00b6a92ffd1481c1b0"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "7242e085d8f232b22c92a045dffa59381c486fe70d9363d01383712bd2fa7014"
+      "bytes": 10186,
+      "sha256": "712186588410cf689145bd9327107775a6e1c14f5db03dd7f89682c43560ecbe"
     },
     {
       "path": "midi/z6201-punk-rock-song-sketches-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "540d41ecc88197a9261dccf810abe76f03078460cc6fb75774240695e5d44ea2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1179,
       "sha256": "72e94cff9c4a7525ca5788bd4adbc905a00fb4b954df95c7265f17e9a0f76cd9"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3986,
-      "sha256": "d15e808d0c817ecac400dd76eb2c512a7aef5047f07a4636d841325d9570ecef"
+      "bytes": 4101,
+      "sha256": "fef9731986fbd21c32bb8d820500410acc0b011037b0877c1286dcd096444116"
     },
     {
       "path": "social/instagram/caption.txt",
